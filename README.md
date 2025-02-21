@@ -1,7 +1,7 @@
 # British Airways Reviews: Web Scraping &amp; Sentiment Analysis
 
 ## 📌 Project Overview
-This project analyzes British Airways customer reviews collected from Skytrax to understand sentiment trends, passenger satisfaction, and key factors influencing airline ratings. Using web scraping, data cleaning, sentiment analysis, and data visualization, this study uncovers insights into customer experiences and airline performance.
+This project analyzes British Airways customer reviews collected from [Skytrax](https://www.airlinequality.com/) to understand sentiment trends, passenger satisfaction, and key factors influencing airline ratings. Using web scraping, data cleaning, sentiment analysis, and data visualization, this study uncovers insights into customer experiences and airline performance.
 
 ## 🔍 Data Collection
 The dataset was obtained via web scraping using BeautifulSoup and requests to extract structured information from Skytrax. The collected data includes:
@@ -31,8 +31,8 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) was used to determine th
 - Negative (≤ -0.05)
 
 ### Sentiment Trends
-Sentiment distribution was visualized using bar charts.
-Time-series analysis was conducted to observe trends in sentiment over time.
+- Sentiment distribution was visualized using bar charts.
+- Time-series analysis was conducted to observe trends in sentiment over time.
 
 ## ✈️ Ratings Analysis
 - Seat Type: Investigating how ratings vary by seat class (economy, business, etc.).
