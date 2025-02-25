@@ -51,9 +51,9 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) was used to determine th
 - Data Visualization: Matplotlib, Seaborn, Tableau
   
 ## 📌 Key Takeaways
-- A large proportion of reviews were negative, highlighting areas for service improvement.
-- Business class received higher ratings compared to economy class.
-- Seasonal variations affected overall customer satisfaction.
-- Regional differences in reviews suggest varying customer expectations.
-- Many customers did not recommend British Airways, indicating areas for potential improvement.
+-The overall rating for British Airways is 5.2/10, with service areas such as food, entertainment, and value for money receiving lower scores.
+-54% of customers do not recommend British Airways.
+-First Class has the highest ratings, while Economy Class has the lowest.
+-Sentiment analysis shows positive reviews are more frequent than negative ones, but sentiment scores vary based on rating, review length, and time period.
+-2023-2024 has seen an increase in negative reviews, suggesting a decline in customer satisfaction.
 
