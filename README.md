@@ -43,7 +43,7 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) was used to determine th
 ## 📊 Visualizations & Insights
 - Python (Matplotlib, Seaborn): Used to generate sentiment trends, rating distributions, and recommendation breakdowns.
 - Tableau Dashboard: Built for interactive exploration of customer reviews, including sentiment trends, ratings by seat type, and recommendation status.
-- Click [here](https://public.tableau.com/app/profile/ruken.demirel/vizzes) to see Tableau dashboard
+- Click [here]([https://public.tableau.com/app/profile/ruken.demirel/vizzes](https://public.tableau.com/app/profile/ruken.demirel/viz/British_Airways_Reviews_17409488558990/Dashboard1)) to see Tableau dashboard
 
 ## 🚀 Technologies Used
 - Python (Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn, NLTK)
