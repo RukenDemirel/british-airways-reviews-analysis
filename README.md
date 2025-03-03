@@ -43,7 +43,7 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) was used to determine th
 ## 📊 Visualizations & Insights
 - Python (Matplotlib, Seaborn): Used to generate sentiment trends, rating distributions, and recommendation breakdowns.
 - Tableau Dashboard: Built for interactive exploration of customer reviews, including sentiment trends, ratings by seat type, and recommendation status.
-- Click [here]([https://public.tableau.com/app/profile/ruken.demirel/vizzes](https://public.tableau.com/app/profile/ruken.demirel/viz/British_Airways_Reviews_17409488558990/Dashboard1)) to see Tableau dashboard
+- Click [here](https://public.tableau.com/app/profile/ruken.demirel/viz/British_Airways_Reviews_17409488558990/Dashboard1) to see Tableau dashboard
 
 ## 🚀 Technologies Used
 - Python (Pandas, NumPy, BeautifulSoup, Matplotlib, Seaborn, NLTK)
@@ -52,9 +52,9 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) was used to determine th
 - Data Visualization: Matplotlib, Seaborn, Tableau
   
 ## 📌 Key Takeaways
--The overall rating for British Airways is 5.2/10, with service areas such as food, entertainment, and value for money receiving lower scores.
--54% of customers do not recommend British Airways.
--First Class has the highest ratings, while Economy Class has the lowest.
--Sentiment analysis shows positive reviews are more frequent than negative ones, but sentiment scores vary based on rating, review length, and time period.
--2023-2024 has seen an increase in negative reviews, suggesting a decline in customer satisfaction.
+- The overall rating for British Airways is 5.2/10, with service areas such as food, entertainment, and value for money receiving lower scores.
+- 54% of customers do not recommend British Airways.
+- First Class has the highest ratings, while Economy Class has the lowest.
+- Sentiment analysis shows positive reviews are more frequent than negative ones, but sentiment scores vary based on rating, review length, and time period.
+- 2023-2024 has seen an increase in negative reviews, suggesting a decline in customer satisfaction.
 
